@@ -11,9 +11,14 @@ Sou estudante de desenvolvimento de sistemas, e apaixonada por criação de jogo
 
 
 
+
+
+
+
+
 -👩‍🔧 Tec. Em Mecânica 
--⚙️ Engenheira Mecânica 
--💻 Amante  da Jogos
+- ⚙️ Engenheira Mecânica 
+-💻 Amante de Jogos
 - 👩‍💻 Aprendendo sobre Front End 
 -📄 Aluna da Etec
 <div>
