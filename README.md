@@ -19,13 +19,13 @@ Sou estudante de desenvolvimento de sistemas, e apaixonada por criação de jogo
 
 
 
--👩‍🔧 Tec. Em Mecânica 
+ 👩‍🔧 Tec. Em Mecânica 
 
-- ⚙️ Engenheira Mecânica 
+⚙️ Engenheira Mecânica 
 
--💻 Amante de Jogos
+💻 Amante de Jogos
 
-- 👩‍💻 Aprendendo sobre Front End 
+👩‍💻 Aprendendo sobre Front End 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height= "40"/> 
