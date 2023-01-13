@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 Sou estudante de desenvolvimento de sistemas, e apaixonada por criação de jogos (https://github.com/pong
+
+
+
+
 - ❤ Estudante da Etec 
 - 💙 Fã da Jogos
 - 👩‍💻 Aprendendo algo sobre Front End
