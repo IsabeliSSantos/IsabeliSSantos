@@ -10,8 +10,11 @@ Sou estudante de desenvolvimento de sistemas, e apaixonada por criação de jogo
 
 
 
-- ❤ Estudante da Etec 
-- 💙 Fã da Jogos
-- 👩‍💻 Aprendendo algo sobre Front End
+
+-👩‍🔧 Tec. Em Mecânica 
+-⚙️ Engenheira Mecânica 
+-💻 Amante  da Jogos
+- 👩‍💻 Aprendendo sobre Front End 
+-📄 Aluna da Etec
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height= "40"/> 
