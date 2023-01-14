@@ -29,3 +29,10 @@ Sou estudante de desenvolvimento de sistemas, e apaixonada por criação de jogo
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height= "40"/> 
+  
+  
+  
+  <div>
+  <a href="https://github.com/Is2b3l1Souza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Is2b3l1Souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Is2b3l1Souza&layout=compact&langs_count=16&theme=dark"/>
