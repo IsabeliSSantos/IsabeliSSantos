@@ -21,7 +21,9 @@ Sou estudante de desenvolvimento de sistemas, e apaixonada por criação de jogo
 
  👩‍🔧 Tec. Em Mecânica 
 
-⚙️ Engenheira Mecânica 
+⚙️ Engenheira 
+
+💻 Experiência com Analise e manipulação de dados
 
 💻 Amante de Jogos
 
