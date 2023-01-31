@@ -25,7 +25,7 @@ Sou estudante de desenvolvimento de sistemas, e apaixonada por criação de jogo
 
 💻 Experiência com Analise e manipulação de dados
 
-💻 Amante de Jogos
+💻 Experiência com Documentação técnica 
 
 👩‍💻 Aprendendo sobre Front End 
 
