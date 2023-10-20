@@ -34,6 +34,6 @@ Sou estudante de desenvolvimento de sistemas, e apaixonada por criação de jogo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40">
   
   <div>
-  <a href="https://github.com/Is2b3l1Souza">
+  <a href="https://github.com/IsabeliSSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsabeliSSantos &show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabeliSSantos&layout=compact&langs_count=16&theme=dark"/>
