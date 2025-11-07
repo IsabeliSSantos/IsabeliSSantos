@@ -2,7 +2,7 @@
 #  ❤ Olá, Obrigada pela Visita! ❤
 <div id="emblemas">
   <a href = "[https://www.linkedin.com/in/isabeli-souza-036b06150](https://www.linkedin.com/in/isabeli-souza-dos-santos-036b06150/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=(https://www.linkedin.com/in/isabeli-souza-036b06150)/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=([https://www.linkedin.com/in/isabeli-souza-036b06150](https://www.linkedin.com/in/isabeli-souza-dos-santos-036b06150?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))/>
   </a>
  
 Sou estudante de Engenharia da COmputação , e apaixonada por criação de jogos 
