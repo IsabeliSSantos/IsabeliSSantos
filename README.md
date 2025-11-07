@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=(https://www.linkedin.com/in/isabeli-souza-036b06150)/>
   </a>
  
-Sou estudante de desenvolvimento de sistemas, e apaixonada por criação de jogos 
+Sou estudante de Engenharia da COmputação , e apaixonada por criação de jogos 
 
 
 
@@ -21,7 +21,12 @@ Sou estudante de desenvolvimento de sistemas, e apaixonada por criação de jogo
 
  👩‍🔧 Tec. Em Mecânica 
 
-⚙️ Engenheira 
+⚙️ Engenheira Mecânica
+
+💻 Tec. Em Desenvolvimento de Sistemas
+
+💻Eng. da Computação - Em andamento
+
 
 💻 Experiência com Analise e manipulação de dados
 
