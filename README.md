@@ -8,7 +8,7 @@
 
 Sou estudante de Engenharia da Computação e apaixonada por criação de jogos! 🎮
 
----
+
 
 ### 📚 Sobre mim & Formação
 * 👩‍🔧 Tec. Em Mecânica
@@ -19,10 +19,11 @@ Sou estudante de Engenharia da Computação e apaixonada por criação de jogos!
 * 📝 Experiência com Documentação técnica
 * 👩‍💻 Aprendendo sobre Front-End
 
----
+
 
 ### 🛠️ Tecnologias
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
 </p>
